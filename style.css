@@ -1,0 +1,132 @@
+body {
+	background-color: #fff;
+	font-family: arial, sans-serif; 
+	font-size: small;
+}
+ul li img{
+	width: 25px;
+	height: auto;
+}
+.nav {
+	float:right;
+	height: auto;
+	letter-spacing: .5px;
+	font-weight: lighter;
+	margin-right: 20px;
+	margin-top: 0;
+}
+a {
+	text-decoration: none;
+	color: black;
+}
+#sign-in{
+	background-color: #4285f4;
+	color: #fff;
+	padding: 5px 10px;
+	border-radius: 3px;
+	font-weight: bold;
+}
+
+li {
+	display: inline-block;
+	margin: 10px;
+	vertical-align: center;
+}
+
+#logo {
+	width: 272px;
+	height: 92px;
+margin-left: 532px;
+margin-top: 190px;
+}
+
+#input {
+	display: inline-block;
+	margin: 0 auto;
+}
+
+form input {
+	border: solid 1px #e5e5e5;
+	height: 35px;
+	width: 550px;
+	left: 30%;
+	position: absolute;
+	margin-top: 18px;
+}
+
+form input:hover {
+	border: solid 1px #aba2a1;
+}
+
+form input:active {
+	border: solid 0.5px #4285f4;
+}
+#left.nav {
+	margin-bottom: 0;
+
+}
+
+footer {
+	position: fixed;
+}
+
+.Search {
+	position: absolute;
+	display: inline-block;
+	top: 60%;
+	left: 41%;
+	border: none;
+}
+
+#gs {
+	float:left;
+	}
+#lucky {
+	float: right;
+	margin-left: 15px;
+	
+}
+
+button {
+	padding: 10px;
+	border: none;
+	background-color: #f1f1f1;
+	color: #757575;
+	font-weight: bold;
+	border-radius: 2px;
+}
+
+button:hover {
+	border: solid 1px #d7d7d7;
+	font-weight: bolder;
+	color: black;
+}
+
+.footer {
+background-color: #f2f2f2;
+border-top: solid 1px #E5E5E5;
+position: absolute;
+right: 0;
+bottom: 0;
+left: 0;
+height: auto;
+}
+
+#left-nav {
+	float: left;
+	}
+
+#right-nav {
+	float: right;
+	margin-right: 25px;
+}
+
+.footer ul {
+color: #757575;	
+}
+
+.footer ul li {
+	padding-left: 15px;
+}
+
+*{ border: 1px solid red; }
